@@ -1,12 +1,12 @@
 {
-  "export_job_id": "00e37b9a-2af6-41eb-a1cc-377a9df43345",
+  "export_job_id": "953a1575-993c-4216-bf9c-716ab8ad81ae",
   "id_short": 354924,
-  "published_at": "2026-04-18T07:56:50Z",
+  "published_at": "2026-04-22T07:24:03Z",
   "repo_name": "top-50-restaurant-category-dominators-in-colorado-us-sample-354924",
   "sample_asset_name": "beamstation_354924_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/354924/beamstation_354924_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_records": 4,
-  "sample_sha256": "2bb746ab1eb84ab4322628c8df05d2a365755c3179b4ebbf77184f64ce3417e7",
-  "sample_size_bytes": 35355,
-  "total_records": 49
+  "sample_records": 6,
+  "sample_sha256": "4eafde58fa302e9088feb25b3bc0c30c4a93dafedb0607d6d211066eff48c9bd",
+  "sample_size_bytes": 39064,
+  "total_records": 63
 }
