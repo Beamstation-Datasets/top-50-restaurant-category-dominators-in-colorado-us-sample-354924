@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Colorado, US
 
-> Free BeamStation sample export with 6 rows and masked direct-contact fields.
+> Free BeamStation sample export with 5 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `354924` |
 | Location | Colorado |
 | Category | Restaurants |
-| Full dataset size | 63 records |
-| Free sample size | 6 records (9.52%) |
-| Last export | 2026-04-22T04:56:41.659400+00:00 |
+| Full dataset size | 50 records |
+| Free sample size | 5 records (10.0%) |
+| Last export | 2026-04-29T07:15:11.735806+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-colorado-us-sample-354924/releases/download/sample-latest/beamstation_354924_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
